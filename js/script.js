@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const produtos = {
                 1: {
                     imagem: 'img/switcholed.png',
-                    miniaturas: ['img/switcholed.png', 'img/Switcholed2.png', 'img/switcholedConsole.png', 'img/switcholedCaixa.png'],
+                    miniaturas: ['./img/switcholed.png', './img/Switcholed2.png', './img/switcholedConsole.png', './img/switcholedCaixa.png'],
                     titulo: 'Nintendo Switch OLED',
                     descricao: 'Inovador e versátil, o Nintendo Switch OLED veio para trazer ainda mais imersão à sua experiência ao jogar. Com a tela de 7 polegadas OLED e o áudio aprimorado, você pode sentir as cores vibrarem e os sons ressoarem. Desenvolvido para ser um console portátil e doméstico, o Nintendo Switch se desdobra em 3 modos: modo TV, modo semiportátil e modo portátil. Seus controles, os Joy-Con, também são adaptáveis e podem ser compartilhados, ou explorados da melhor forma, quando você estiver jogando sozinho. A bateria do video game possui entre 4.5 horas e 9 horas de autonomia, permitindo que você aproveite cada jogo ao máximo, podendo ser carregada enquanto joga. Além disso, o armazenamento extenso, de 64GB, permite que você não limite sua biblioteca de games e experiencia o que desejar. Estão inclusos na caixa do seu Nintendo Switch: dois Joy-Con (esquerdo e direito), um suporte para Joy-Con, um console Nintendo Switch, uma base, duas alças Joy-Con e um adaptador CA.',
                     preco: 'R$ 2.099,00',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
                 2: {
                     imagem: 'img/SwitchLite.png',
-                    miniaturas: ['img/SwitchLite.png','img/switchLiteTraseira.png','img/SwitchLiteMao.png','img/SwitchLiteCaixa.png'],
+                    miniaturas: ['img/SwitchLite.png','./img/switchLiteTraseira.png','img/SwitchLiteMao.png','img/SwitchLiteCaixa.png'],
                     titulo: 'Nintendo Switch Lite',
                     descricao: 'Nintendo Switch Lite portátil Azul 32GB. Com seu console Switch você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas. Switch tornou-se um dos consoles mais versáteis do mercado graças ao seu uso portátil e desktop. A Nintendo desenvolveu este modelo com o objetivo de ter todos os confortos da tecnologia de elite em um dispositivo portátil com o qual você pode jogar e desfrutar de diversos conteúdos online. Adaptado às suas necessidades, salve as suas aplicações, fotos, vídeos e muito mais no disco rígido, que tem uma capacidade de 32 GB. Por ter um processador de 8 núcleos e um gráfico, fornecem uma experiência dinâmica, respostas ágeis e transições suaves de imagens de alta definição. Você poderá reproduzir música, assistir seus filmes e séries favoritos através dos aplicativos para download. ITENS INCLUSOS: 1 - Nintendo Switch Lite BLUE + CARREGADOR. Garantia de 3 meses direto com o vendedor.',
                     preco: 'R$ 1.899,90',
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
                 4: {
                     imagem: 'img/s23.png',
-                    miniaturas: ['img/s23.png', 'img/s23Tela.png','img/s23Lateral.png','img/s23Traseira.png'],
+                    miniaturas: ['img/s23.png', 'img/s23Tela.png','./img/s23Lateral.png','img/s23Traseira.png'],
                     titulo: 'Galaxy S23',
                     descricao: 'O Samsung Galaxy S23 é, sem dúvida, um dos smartphones Android mais avançados e abrangentes disponíveis no mercado, graças ao seu rico equipamento e recursos multimídia avançados. Tem um grande display de 6.1 polegadas com uma resolução de 2340x1080 pixel. As funcionalidades oferecidas pelo Samsung Galaxy S23 são muitas e inovadoras. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de 256 GB mas sem a possibilidade de expansão.',
                     preco: 'R$ 2.590,00',
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
                 6: {
                     imagem: 'img/Placa de video.png',
-                    miniaturas: ['img/Placa de video.png','img/PLacaVideoFrente.png','img/placavideolateral.png','img/placavideoempe.png'],
+                    miniaturas: ['./img/Placa de video.png','./img/PLacaVideoFrente.png','./img/placavideolateral.png','./img/placavideoempe.png'],
                     titulo: 'MSI RTX 3050 Ventus',
                     descricao: 'Placa de Vídeo MSI RTX 3050 Ventus 2X XS OC. Ventilador duplo: Dois ventiladores e um enorme dissipador de calor garantem uma experiência fresca e silenciosa para você.Placa traseira de reforço: A placa traseira de reforço apresenta um design de fluxo que fornece ventilação adicional.Centro MSI: O software exclusivo MSI Center permite monitorar, ajustar e otimize os produtos MSI em tempo real.',
                     preco: 'R$ 1.564,90',
